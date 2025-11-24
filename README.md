@@ -20,24 +20,25 @@ Copiar código
 
 ---
 
-## 🖼 Códigos Utilizados nos Testes (Seção 4 do TCC)
+## 🖥 Códigos Utilizados nos Testes (Seção 4 do TCC)
 
-As imagens abaixo correspondem aos códigos implementados em cada um dos cinco testes realizados.
+Os arquivos abaixo contêm os códigos Python utilizados em cada um dos cinco testes realizados. Cada script implementa o pipeline de pré-processamento, modelagem, otimização de hiperparâmetros e avaliação.
 
 ### 📌 Teste 1 — Random Forest e XGBoost com GridSearchCV
-![Teste 1](images/code1tcc.png)
+[Ver código Python](scripts/tcc_pipeline1.py)
 
 ### 📌 Teste 2 — Random Forest e XGBoost com RandomizedSearchCV
-![Teste 2](images/code2tcc.png)
+[Ver código Python](scripts/tcc_pipeline2.py)
 
 ### 📌 Teste 3 — LGBM com Optuna (50 iterações)
-![Teste 3](images/code3tcc.png)
+[Ver código Python](scripts/tcc_pipeline3.py)
 
 ### 📌 Teste 4 — LGBM com Optuna (ajuste final de hiperparâmetros)
-![Teste 4](images/code4tcc.png)
+[Ver código Python](scripts/tcc_pipeline4.py)
 
 ### 📌 Teste 5 — Pipeline completo com Random Forest + SMOTE
-![Teste 5](images/code5tcc.png)
+[Ver código Python](scripts/tcc_pipeline5.py)
+
 
 ---
 
