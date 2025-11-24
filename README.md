@@ -10,13 +10,12 @@ O objetivo do projeto é aplicar técnicas de **Machine Learning** para previsã
 
 /tcc-ml-seguros-vida
 │
-├── images/ # Imagens dos códigos utilizados nos testes
+├── scripts/ # códigos utilizados nos testes
 ├── README.md # Documentação principal do projeto
 
 yaml
 Copiar código
 
-> Obs.: Como o repositório contém apenas imagens para fins de visualização do código, não há arquivos de script `.py` neste repositório.
 
 ---
 
